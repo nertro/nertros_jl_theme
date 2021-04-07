@@ -1,2 +1,2 @@
 # nertros_jl_theme
-Jupyterlab Theme
+Jupyterlab Theme optimized for vertical monitor
